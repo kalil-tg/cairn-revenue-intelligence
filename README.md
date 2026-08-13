@@ -54,6 +54,7 @@ pnpm test:e2e
 - [Design system](docs/DESIGN_SYSTEM.md) — visual and interaction rules
 - [Fidelity ledger](docs/FIDELITY_LEDGER.md) — implementation-to-design comparison
 - [Manual QA plan](docs/MANUAL_QA_PLAN.md) — remaining assistive-technology checks
+- [Product Rescue evidence capsule](docs/EVIDENCE_CAPSULE_PRODUCT_RESCUE.md) — reproducible baseline, acceptance matrix, and verified quality gates
 
 ## Portfolio
 
